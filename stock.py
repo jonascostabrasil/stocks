@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import chart_studio.plotly as py
+#import chart_studio.plotly as py
 import cufflinks as cf
 import seaborn as sns
 import plotly.express as px
