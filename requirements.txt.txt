@@ -1,3 +1,4 @@
+chart_studio==NA
 cufflinks==0.17.3
 investpy==1.0.7
 matplotlib==3.3.4
